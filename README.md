@@ -1,6 +1,6 @@
 # Dummy Token
 
-A simple dummy token
+A simple dummy token. Based on the [HardHat Tutorial](https://hardhat.org/tutorial/).
 
 ## Setup
 
